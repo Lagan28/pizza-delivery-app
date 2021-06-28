@@ -1,0 +1,3 @@
+[-] instead of noty, use sweetalert (the former is deprecated)
+[-] error handling for notification in app.js
+[-] rounded notification alerts
