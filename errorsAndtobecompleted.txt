@@ -1,3 +1,4 @@
-todo instead of noty, use sweetalert (the former is deprecated)
-todo error handling for notification in a
-todo rounded notification alerts
+todo- instead of noty, use sweetalert (the former is deprecated)
+todo- error handling for notification in a
+todo- rounded notification alerts
+todo- add the missing parameters message using express-flash (in authController and register.ejs)
