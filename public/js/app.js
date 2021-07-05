@@ -1859,6 +1859,13 @@ function updateCart(pizza) {
       timeout: 1000,
       text: "Item has been added."
     }).show();
+  })["catch"](function (err) {
+    console.log('err');
+    new (noty__WEBPACK_IMPORTED_MODULE_1___default())({
+      type: 'error',
+      timeout: 1000,
+      text: "Item could not be added."
+    }).show();
   });
 }
 

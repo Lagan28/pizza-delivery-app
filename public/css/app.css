@@ -314,6 +314,9 @@ section.hero {
   border-color: #FFF;
   color: #FFF;
 }
+.add-to-cart:focus {
+  outline: none;
+}
 
 .btn-primary {
   background: #FE5F1E;
