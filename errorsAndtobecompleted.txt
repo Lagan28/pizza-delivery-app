@@ -1,4 +1,5 @@
 todo- instead of noty, use sweetalert (the former is deprecated)
-todo- error handling for notification in a
+todo- error handling for notification
 todo- rounded notification alerts
 todo- add the missing parameters message using express-flash (in authController and register.ejs)
+todo- request validation 'Order Now' button in the cart section
